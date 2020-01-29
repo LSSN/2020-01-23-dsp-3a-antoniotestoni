@@ -1,6 +1,12 @@
 // Sintesi sottrattiva significa analizzare attraverso strumenti come spettrogramma,
 // oscilloscopio e sonogramma il suono o rumore preso in considerazione seconda vari
-// aspetti. Oscilloscopio è uno strumento che ci permette attraverso il grafico
+// aspetti.
+
+//GS - SOTTRATTIVA, lo dice la parola stessa, significa sottrarre da qualcosa che
+//GS - abbia uno spettro complesso, per ottenere un prodotto derivato.
+//GS - è un processo molto simile a quello della scultura, scavare, modellare. 
+
+// Oscilloscopio è uno strumento che ci permette attraverso il grafico
 // ampiezza-tempo di vedere i processi di rarefazione e di condensazione di un suono.
 // Lo spettrogramma ci serve a capire attraverso il grafico freq.-tempo l'intensità di
 // un suono nel tempo. Il sonogramma ci serve per capire l'altezza di un
